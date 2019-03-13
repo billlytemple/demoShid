@@ -27,7 +27,7 @@ public class Secret_Formula
      */
     public int sampleMethod(int y)
     {
-        // put your code here
+        //yoyoyo
         return x + y;
     }
 }
